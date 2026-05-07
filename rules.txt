@@ -5,5 +5,5 @@ example.org##a
 ! example.org#%#alert('test_1234');
 ! example.org#%#console.log('qwertyuiop_123456');
 ! example.org#%#const script=document.createElement("script");script.textContent='alert(1234);console.log("script");',document.head.appendChild(script);
-example.org#%#console.log('Test random:', Math.random();
+example.org#%#console.log('Test random:', Math.random());
 example.org#%#alert('new alert');
