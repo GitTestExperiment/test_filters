@@ -1,5 +1,5 @@
 ! Title: Rules
 !
 ! Rules
-example.org##h1
+example.org##a
 example.org#%#alert('test_1234');
