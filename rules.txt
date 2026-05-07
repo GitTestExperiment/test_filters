@@ -2,4 +2,4 @@
 !
 ! Rules
 example.org##h1
-example.org#%#alert('qwerty_foo_bar');
+example.org#%#alert('test_1234');
