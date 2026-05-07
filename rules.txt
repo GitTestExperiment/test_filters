@@ -1,0 +1,5 @@
+! Title: Rules
+!
+! Rules
+example.org##h1
+example.org#%#alert('qwerty_foo_bar');
